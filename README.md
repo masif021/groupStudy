@@ -1,2 +1,2 @@
 # groupStudy
-Repository for Group Study Projects
+Repository for Group Study Projects for testing 
